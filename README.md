@@ -26,5 +26,5 @@ Download the files as a zip or clone into the repository.
 git clone https://github.com/YimingShu-teay/Safety-critical-Decision-making-and-Control.git
 ```
 
-Click `run_simulation` to generate your own randomized GIF.
+Run`run_simulation.py` to generate your own randomized GIF.
 
