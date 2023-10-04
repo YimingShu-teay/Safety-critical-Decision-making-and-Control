@@ -1,6 +1,6 @@
 This is the source code for the research paper **'Safety-critical Decision-making and Control for Autonomous Vehicles with Highest Priority**'.
 
-
+Here is the video link:  https://youtu.be/pkEXCUiuyzk
 
 ### Run an example
 
@@ -11,3 +11,4 @@ git clone https://github.com/YimingShu-teay/Safety-critical-Decision-making-and-
 ```
 
 Click `run_simulation` to generate your own randomized GIF.
+
