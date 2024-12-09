@@ -16,7 +16,7 @@ If you use this work in your research, please cite with:
   doi={10.1109/IV55152.2023.10186772}}
 ```
 
-keywords: Model Predictive Control, Control Barrier Function
+keywords: Model Predictive Control(MPC), Control Barrier Function(CBF)
 
 ### Run an example
 
