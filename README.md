@@ -1,4 +1,4 @@
-This is the source code for the research paper **'Safety-critical Decision-making and Control for Autonomous Vehicles with Highest Priority**'.
+This is the source code for IV'23 **'Safety-critical Decision-making and Control for Autonomous Vehicles with Highest Priority**'.
 
 Here is the video link:  https://youtu.be/pkEXCUiuyzk
 
